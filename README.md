@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Hi 👋, I'm Hào, A junior programmer from Vietnam.
-- 👯 I’m looking for help with [Mindustry Mod (Spirtes)](https://github.com/Hao-1337/mindustry-better-vanilla)
+- I'm just doing some wierd things.
+- Favourite languages: C++, JS, TS, JAVA.
 
 <h3 align="left">Stats</h3>
 
